@@ -12,14 +12,14 @@
 - 📚 Constant Learner
 - 🚀 Problem solver
 
-- 👨‍💻 All of my projects are available at [https://github.com/BhawarSuthar7023?tab=repositories](https://github.com/BhawarSuthar7023?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/BhnawarLalSuthar?tab=repositories](https://github.com/BhnawarLalSuthar?tab=repositories)
 
-- 📫 Reach out to me on **bhawarsuthar7023@gmail.com**
+- 📫 Reach out to me on **BhnawarLalSuthar@gmail.com**
 
 
 <h1>🌐 Socials</h1>
 <p align="left">
-<a href="https://github.com/BhawarSuthar7023" target="_blank">
+<a href="https://github.com/BhnawarLalSuthar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/bhanwar-lal-suthar/" target="_blank">
@@ -41,9 +41,9 @@
 
 <h1 align="left">📊 GitHub Stats</h1>
 
-![BhawarSuthar7023's Stats](https://github-readme-stats.vercel.app/api?username=BhawarSuthar7023&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![BhawarSuthar7023's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhawarSuthar7023&theme=vue-dark&hide_border=true)
-![BhawarSuthar7023's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhawarSuthar7023&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![BhnawarLalSuthar's Stats](https://github-readme-stats.vercel.app/api?username=BhnawarLalSuthar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![BhnawarLalSuthar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhnawarLalSuthar&theme=vue-dark&hide_border=true)
+![BhnawarLalSuthar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhnawarLalSuthar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Get in Touch
 
