@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h1>Hi 👋, I'm Bhawar Suthar</h1>
+<h1>Hi 👋, I'm Bhanwar Lal Suthar</h1>
 
 "🚀 Aspiring Full Stack Web Developer weaving digital wonders with interactive UIs and a touch of creativity. Let's code together and turn ideas into captivating online experiences! 💻✨ #WebDev"
  
