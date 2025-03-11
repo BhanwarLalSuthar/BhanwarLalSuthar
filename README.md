@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhnawarLalSuthar?tab=repositories](https://github.com/BhnawarLalSuthar?tab=repositories)
 
-- 📫 Reach out to me on **BhnawarLalSuthar@gmail.com**
+- 📫 Reach out to me on **bhawarsuthar7023@gmail.com**
 
 
 <h1>🌐 Socials</h1>
