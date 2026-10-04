@@ -1,61 +1,58 @@
-### Hi there 👋
+# Bhanwar Lal Suthar
 
+### Software Developer | React · TypeScript · Node.js · PostgreSQL
 
-<h1>Hi 👋, I'm Bhanwar Lal Suthar</h1>
+I build production-oriented full-stack applications and backend systems, with a focus on reliable APIs, data-heavy workflows, performance, and practical AI integrations.
 
-"🚀 Aspiring Full Stack Web Developer weaving digital wonders with interactive UIs and a touch of creativity. Let's code together and turn ideas into captivating online experiences! 💻✨ #WebDev"
- 
-## 🚀 Quick Overview 🚀
-- 👨‍💻 I'm from Jalore,Rajasthan.
-- 👨‍💻 Aspiring Full-stack Web Developer
-- 🌐 Web Enthusiast
-- 📚 Constant Learner
-- 🚀 Problem solver
+## What I Work On
 
-- 👨‍💻 All of my projects are available at [https://github.com/BhnawarLalSuthar?tab=repositories](https://github.com/BhnawarLalSuthar?tab=repositories)
+- Full-stack development with React, TypeScript, Node.js and Express
+- PostgreSQL, SQL, data modeling and backend workflows
+- REST APIs, asynchronous processing and service integration
+- Python and GenAI for automation and product engineering
+- Debugging, performance optimization and scalable system design
 
-- 📫 Reach out to me on **bhawarsuthar7023@gmail.com**
+## Selected Work
 
+### Offline-First Reading Assistant
+A React-based PWA for viewing and annotating documents with offline persistence, network awareness, lazy loading and synchronization.
 
-<h1>🌐 Socials</h1>
-<p align="left">
-<a href="https://github.com/BhnawarLalSuthar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/bhanwar-lal-suthar/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+**Stack:** React, Vite, IndexedDB, Canvas API, Network Information API, Vercel
 
+[View repository →](https://github.com/BhanwarLalSuthar/Offline-First-Reading-Assistant)
 
-## Skills
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0082C9?style=flat)
+### Daily Task Tracker
+A product-focused application exploring practical task management and end-to-end application development.
 
-## Tools
-- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-- ![Replit](https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+[View repository →](https://github.com/BhanwarLalSuthar/Daily-Task-Tracker-App)
 
+## Tech Stack
 
-<h1 align="left">📊 GitHub Stats</h1>
+**Frontend:** React, TypeScript, Next.js, JavaScript, HTML, CSS
 
-![BhanwarLalSuthar's Stats](https://github-readme-stats.vercel.app/api?username=BhanwarLalSuthar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![BhanwarLalSuthar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhanwarLalSuthar&theme=vue-dark&hide_border=true)
-![BhanwarLalSuthar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhanwarLalSuthar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+**Backend:** Node.js, Express.js, REST APIs, Python, Django, Flask
 
-## 📫 Get in Touch
+**Data:** PostgreSQL, SQL, MongoDB, IndexedDB
 
-Feel free to connect with me on:
+**Engineering:** Git, GitHub, API integration, debugging, performance optimization, asynchronous workflows
 
-- [LinkedIn](https://www.linkedin.com/in/bhanwar-lal-suthar/) 📎
+**AI:** GenAI / LLM application integration
 
-## 🤝 Let's Collaborate
+## Engineering Principles
 
-I'm always open to collaboration and new projects. If you have an exciting opportunity or just want to chat, drop me a message!
+- Build to understand, not just to demo.
+- Measure before optimizing.
+- Prefer simple designs, then scale the parts that actually need it.
+- Make trade-offs explicit and keep systems easy to reason about.
 
-Happy coding! 🚀
+## Currently Building
 
+I use side projects to explore deeper engineering problems in scalable backend systems, AI-powered products, offline-first applications, and developer tooling.
 
-<!-- profile-maintenance-check: 2026-10-04 -->
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/bhanwar-lal-suthar/) · [Email](mailto:bhawarsuthar7023@gmail.com)
+
+---
+
+Older repositories remain available as part of my learning history; this profile highlights my current engineering direction and selected work.
